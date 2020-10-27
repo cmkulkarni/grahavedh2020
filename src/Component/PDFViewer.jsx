@@ -1,21 +1,24 @@
 import react from 'react';
 import classes from './mystyle.module.css';
+import pdf from '../doc/2019.pdf';
 
 const PDFViewer = props => {
-    var pdfPath = '/doc/2019.pdf#toolbar=0&view=fit&scrollbar=1';
+    var pdfPath = 'https://github.com/cmkulkarni/doc/blob/master/2019.pdf#toolbar=0&view=fit&scrollbar=1';
     var h = window.innerHeight*0.65;
     var scrollBool = '&scrollbar=0';
     //pdfPath = pdfPath + scrollBool;
     return(
         <>
             <div style={{height: h}} className={classes.pdfViewer}>
+                <iframe frameborder="0" scrolling="no"
+                        src={pdfPath} width="90%" height="700px">
+                </iframe>
                 
-                <object id="myPdf" type="application/pdf" data={pdfPath} width="90%" height="700px">
-                    Unable to open the PDF file.
-                </object>
             </div>
         </>
     );
 }
-
+/*<object id="myPdf" type="application/pdf" data={pdfPath} width="90%" height="700px">
+                    Unable to open the PDF file.
+                </object>*/
 export default PDFViewer;
