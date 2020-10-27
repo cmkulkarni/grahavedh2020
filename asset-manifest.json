@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/grahavedh2020/static/css/main.683c7284.chunk.css",
+    "main.js": "/grahavedh2020/static/js/main.ff863915.chunk.js",
+    "main.js.map": "/grahavedh2020/static/js/main.ff863915.chunk.js.map",
+    "runtime-main.js": "/grahavedh2020/static/js/runtime-main.494a783e.js",
+    "runtime-main.js.map": "/grahavedh2020/static/js/runtime-main.494a783e.js.map",
+    "static/js/2.54628d86.chunk.js": "/grahavedh2020/static/js/2.54628d86.chunk.js",
+    "static/js/2.54628d86.chunk.js.map": "/grahavedh2020/static/js/2.54628d86.chunk.js.map",
+    "static/js/3.c6f93f3a.chunk.js": "/grahavedh2020/static/js/3.c6f93f3a.chunk.js",
+    "static/js/3.c6f93f3a.chunk.js.map": "/grahavedh2020/static/js/3.c6f93f3a.chunk.js.map",
+    "index.html": "/grahavedh2020/index.html",
+    "static/css/main.683c7284.chunk.css.map": "/grahavedh2020/static/css/main.683c7284.chunk.css.map",
+    "static/js/2.54628d86.chunk.js.LICENSE.txt": "/grahavedh2020/static/js/2.54628d86.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/grahavedh2020/static/media/Shivaji01.58c50cd0.ttf",
+    "static/media/logo.103b5fa1.svg": "/grahavedh2020/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.494a783e.js",
+    "static/js/2.54628d86.chunk.js",
+    "static/css/main.683c7284.chunk.css",
+    "static/js/main.ff863915.chunk.js"
+  ]
+}
