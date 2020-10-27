@@ -3,7 +3,7 @@ import classes from './mystyle.module.css';
 import pdf from '../doc/2019.pdf';
 
 const PDFViewer = props => {
-    var pdfPath = 'https://github.com/cmkulkarni/grahavedh2020/blob/master/src/doc/2019.pdf';
+    var pdfPath = 'https://github.com/cmkulkarni/grahavedh2020/raw/master/src/doc/2019.pdf';
     var h = window.innerHeight*0.65;
     var scrollBool = '&scrollbar=0';
     //pdfPath = pdfPath + scrollBool;
