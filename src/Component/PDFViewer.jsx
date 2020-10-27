@@ -2,7 +2,7 @@ import react from 'react';
 import classes from './mystyle.module.css';
 
 const PDFViewer = props => {
-    var pdfPath = './2019.pdf#toolbar=0&view=fit&scrollbar=1';
+    var pdfPath = '/doc/2019.pdf#toolbar=0&view=fit&scrollbar=1';
     var h = window.innerHeight*0.65;
     var scrollBool = '&scrollbar=0';
     //pdfPath = pdfPath + scrollBool;
