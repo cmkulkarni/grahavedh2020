@@ -8,11 +8,11 @@ import paths from './MagzinPath.json'
 
 const PDFViewer = props => {
     var pdfPath = 'https://github.com/cmkulkarni/grahavedh2020/raw/master/src/doc/2019.pdf';
-    var h = window.innerHeight*0.60;
+    var h = window.innerHeight*0.90;
     var imgArr = [
         <img key={1} src={one} alt="Image not loaded" width="90%" ></img>,
-        <img key={2} src={two} alt="Image not loaded" width="90%" height={h}></img>,
-        <img key={3} src={three} alt="Image not loaded" width="90%" height={h}></img>,
+        <img key={2} src={two} alt="Image not loaded" width="90%"></img>,
+        <img key={3} src={three} alt="Image not loaded" width="90%"></img>,
     ];
 
     return(
