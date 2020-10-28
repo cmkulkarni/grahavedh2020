@@ -5,7 +5,7 @@ import overviewJson from './Overview.json';
 const Overview = (props) => {
     var OverviewContents = [];
     var title = <h1 className={classes.contentTilte}>{overviewJson.title}</h1>;
-    var h = window.innerHeight*0.65;
+    var h = window.innerHeight*0.50;
 
     overviewJson.content.forEach(function(v, i){
         OverviewContents.push(<p  key= {i} className={classes.contents}>{v}</p>);

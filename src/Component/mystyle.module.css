@@ -23,12 +23,15 @@
     .header{
         padding: 30px;
     }
-    .header div.logo {
-        display: block;
-        float: none;
-    }
     .header div.Access{
         float:none;
+    }
+    .header img.logo{
+        float:none;
+        width: 25%;
+    }
+    .overview{
+        
     }
 }
 
