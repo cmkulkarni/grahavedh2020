@@ -103,6 +103,7 @@
 
 .pdfViewer{
     width:70%;
+    overflow-y: scroll;
 }
 
 .inLine{
