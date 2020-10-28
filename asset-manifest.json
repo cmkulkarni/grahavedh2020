@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/grahavedh2020/static/css/main.683c7284.chunk.css",
-    "main.js": "/grahavedh2020/static/js/main.fd67c637.chunk.js",
-    "main.js.map": "/grahavedh2020/static/js/main.fd67c637.chunk.js.map",
-    "runtime-main.js": "/grahavedh2020/static/js/runtime-main.494a783e.js",
-    "runtime-main.js.map": "/grahavedh2020/static/js/runtime-main.494a783e.js.map",
+    "main.css": "/grahavedh2020/static/css/main.6362f32f.chunk.css",
+    "main.js": "/grahavedh2020/static/js/main.128aad51.chunk.js",
+    "main.js.map": "/grahavedh2020/static/js/main.128aad51.chunk.js.map",
+    "runtime-main.js": "/grahavedh2020/static/js/runtime-main.df4ddd62.js",
+    "runtime-main.js.map": "/grahavedh2020/static/js/runtime-main.df4ddd62.js.map",
     "static/js/2.54628d86.chunk.js": "/grahavedh2020/static/js/2.54628d86.chunk.js",
     "static/js/2.54628d86.chunk.js.map": "/grahavedh2020/static/js/2.54628d86.chunk.js.map",
-    "static/js/3.c6f93f3a.chunk.js": "/grahavedh2020/static/js/3.c6f93f3a.chunk.js",
-    "static/js/3.c6f93f3a.chunk.js.map": "/grahavedh2020/static/js/3.c6f93f3a.chunk.js.map",
+    "static/js/3.7db4ee26.chunk.js": "/grahavedh2020/static/js/3.7db4ee26.chunk.js",
+    "static/js/3.7db4ee26.chunk.js.map": "/grahavedh2020/static/js/3.7db4ee26.chunk.js.map",
     "index.html": "/grahavedh2020/index.html",
-    "static/css/main.683c7284.chunk.css.map": "/grahavedh2020/static/css/main.683c7284.chunk.css.map",
+    "static/css/main.6362f32f.chunk.css.map": "/grahavedh2020/static/css/main.6362f32f.chunk.css.map",
     "static/js/2.54628d86.chunk.js.LICENSE.txt": "/grahavedh2020/static/js/2.54628d86.chunk.js.LICENSE.txt",
     "static/media/2019.a9f10e01.pdf": "/grahavedh2020/static/media/2019.a9f10e01.pdf",
+    "static/media/20191024_1.6a36a58b.jpg": "/grahavedh2020/static/media/20191024_1.6a36a58b.jpg",
+    "static/media/20191024_2.588c3c07.jpg": "/grahavedh2020/static/media/20191024_2.588c3c07.jpg",
+    "static/media/20191024_3.6ce98f5e.jpg": "/grahavedh2020/static/media/20191024_3.6ce98f5e.jpg",
     "static/media/index.css": "/grahavedh2020/static/media/Shivaji01.58c50cd0.ttf",
     "static/media/logo.103b5fa1.svg": "/grahavedh2020/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.494a783e.js",
+    "static/js/runtime-main.df4ddd62.js",
     "static/js/2.54628d86.chunk.js",
-    "static/css/main.683c7284.chunk.css",
-    "static/js/main.fd67c637.chunk.js"
+    "static/css/main.6362f32f.chunk.css",
+    "static/js/main.128aad51.chunk.js"
   ]
 }
